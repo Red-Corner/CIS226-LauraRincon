@@ -1,0 +1,7 @@
+START
+  Ask user for a number 
+  If number is greater than 0
+      Print "Good choice"
+  Else
+      Print "Try again"
+END
